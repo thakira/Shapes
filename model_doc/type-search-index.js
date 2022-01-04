@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"model","l":"MAllShapes"},{"p":"model","l":"MCircle"},{"p":"model","l":"MEllipse"},{"p":"model","l":"MRectangle"},{"p":"model","l":"MShape"},{"p":"model","l":"MSquare"}]
